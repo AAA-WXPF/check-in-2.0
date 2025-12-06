@@ -1,0 +1,7 @@
+{
+  "name": "到了吗",
+  "description": "A comprehensive student attendance management system featuring QR code and passcode sign-in, user management, and detailed attendance history reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
